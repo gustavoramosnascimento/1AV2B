@@ -8,13 +8,13 @@ body {
   background-color: #000000;
 }
 .carro { 
-     width: 200%;
-    height: 500%;
+     width: 20%;
+    height: 50%;
 }
 .ini {
  background-image: url("pexels-broderick-armbrister-6462662.jpg");
 }
 .button{
 display: inline-block;
-padding: 100px 200px;
+padding: 60px 40px;
 }
