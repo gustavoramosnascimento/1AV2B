@@ -1,6 +1,6 @@
 h1{
     text-align: center;
-    font-size: 25px;
+    font-size: 250px;
     color: #ff6a00;
 
 }
@@ -8,13 +8,13 @@ body {
   background-color: #000000;
 }
 .carro { 
-     width: 20%;
-    height: 50;
+     width: 200%;
+    height: 500%;
 }
 .ini {
  background-image: url("pexels-broderick-armbrister-6462662.jpg");
 }
 .button{
 display: inline-block;
-padding: 10px 20px;
+padding: 100px 200px;
 }
